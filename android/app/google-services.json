@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959638024703",
+    "project_id": "live-location-24cb4",
+    "storage_bucket": "live-location-24cb4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959638024703:android:e28b69b14f78178b3ff7ca",
+        "android_client_info": {
+          "package_name": "com.example.live_location"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ0niWqlTGYzr0x0Mdavqxc0Ia1xNZfcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
